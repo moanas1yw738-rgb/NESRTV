@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=15000000,RESOLUTION=3840x2160
-http://sonymax.org:8080/live/9bgtjiBRz5/Voj3asApSn/534.m3u8 
+https://storage.googleapis.com/onihunterover1/mux_video_ts/index-1.m3u8
