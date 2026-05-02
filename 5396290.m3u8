@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=15000000,RESOLUTION=3840x2160
-https://storage.googleapis.com/onihunterover1/mux_video_ts/index-1.m3u8
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/adaptive.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=1920x1080
 https://storage.googleapis.com/onihunterover1/mux_video_ts/index-1.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5500000,RESOLUTION=1280x720
